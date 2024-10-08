@@ -1,26 +1,18 @@
 * {
   margin: 0; padding: 0;
 }
-<<<<<<< HEAD
 body {display: block;margin: 0px;padding:0;}
 
-.accordion {
+.accordion_body {
   	line-height: 38px;
 	border-left: 1px solid #e1e1e1;
 	backguound: #fff;
 	border-right: 1px solid #e1e1e1;
-=======
-body {
-  font-size: 100%;
 }
+.accordion a{display:block;  font-size: 16px;height:34px;line-height:34px;padding-left:40px;color:#252525;background:#fff;text-decoration:none;border-bottom:1px solid #e1e1e1;}
 
-.accordion {
-    margin: 0px 0;
-}
->>>>>>> b4d12cac8af6817cb1d6f34538c2bdd8a7e20dce
-}
-.accordion a{display:block;  font-size: 16px;height:34px;line-height:34px;padding-left:50px;color:#252525;background:#fff;text-decoration:none;border-bottom:1px solid #e1e1e1;}
-.accordion_list{width:100%;margin:0;padding:0;}
+.accordion_list{width:auto;margin:0;padding:0;}
+
 .accordion h1, h2, h3, h4 {
   cursor: pointer;
 }
@@ -74,9 +66,5 @@ body {
 .accordion .opened-for-codepen {
   display: block;
 }
-<<<<<<< HEAD
 
 
-=======
-.menu_body a{display:block;height:34px;line-height:34px;padding-left:30px;color:#252525;background:#fff;text-decoration:none;border-bottom:1px solid #e1e1e1;}
->>>>>>> b4d12cac8af6817cb1d6f34538c2bdd8a7e20dce
