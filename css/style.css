@@ -44,18 +44,18 @@ body { font-size: 100%;}
   background-color: #b7b7b7;
 }
 .accordion h3 {
-  padding: 2px 30px;line-height: 36px;
+  padding: 2px 30px;
   background-color: #b94152;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff; 
 }
 .accordion h3:hover {
   background-color: #a93142;
 }
 .accordion h4 {
-  padding: 2px 30px;line-height:36px;
+  padding: 2px 30px;
   background-color: #ffc25a;
-  font-size: 20px;
+  font-size: 16px;
   color: #b94152;
 }
 .accordion h4:hover {
