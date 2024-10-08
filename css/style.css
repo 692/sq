@@ -24,38 +24,38 @@ body { font-size: 100%;}
   font-family: 黑体;
   font-size: 24px;
   font-weight: normal;
-  color: #1abc9c;
+  color: #9d9d9d;
 }
 .accordion h1:hover {
-  color: #4afcdc;
+  color:  #fff;
 }
 
 .accordion h1:not(:last-of-type) {
-  border-bottom: 1px dotted #1abc9c;
+  border-bottom: 1px dotted #fff;
 }
 
 .accordion h2 {
   padding: 5px 25px;
-  background-color: #1abc9c;
+  background-color: #e3e3e3;
   font-size: 22px;
-  color: #333;border-bottom:1px solid #209b83;
+  color: #333;border-bottom:1px solid  #b7b7b7;
 }
 .accordion h2:hover {
-  background-color: #09ab8b;
+  background-color: #b7b7b7;
 }
 .accordion h3 {
-  padding: 5px 30px;
+  padding: 3px 30px;line-height: 30px;
   background-color: #b94152;
-  font-size: 18px;
-  color: #ddd; 
+  font-size: 16px;
+  color: #fff; 
 }
 .accordion h3:hover {
   background-color: #a93142;
 }
 .accordion h4 {
-  padding: 5px 30px;
+  padding: 3px 30px;line-height:30px;
   background-color: #ffc25a;
-  font-size: 18px;
+  font-size: 16px;
   color: #b94152;
 }
 .accordion h4:hover {
