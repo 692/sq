@@ -66,4 +66,11 @@ body { font-size: 100%;}
   display: block;
 }
 
-
+.accordion p {
+  padding: 15px 35px;
+  background-color: #cbcbcb;
+  font-family: "Georgia";
+  font-size: .8rem;
+  color: #333;
+  line-height: 1.3rem;
+}
